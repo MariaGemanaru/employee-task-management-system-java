@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
+  <diagram name="Pagină-1" id="i9Ppkp7QX4TEAmtFMtHj">
+    <mxGraphModel dx="1034" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YmLernKXyZajT-Sk-Toz-1" value="Graphical User Interface" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="80" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YmLernKXyZajT-Sk-Toz-2" value="Data Model" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="610" y="180" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YmLernKXyZajT-Sk-Toz-3" value="Business Logic" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="220" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YmLernKXyZajT-Sk-Toz-4" value="Data Access" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="135" y="390" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YmLernKXyZajT-Sk-Toz-5" value="ApplicationGui" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="150" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YmLernKXyZajT-Sk-Toz-6" value="TasksManagement&lt;div&gt;Utility&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="290" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YmLernKXyZajT-Sk-Toz-7" value="Serialization" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="135" y="460" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YmLernKXyZajT-Sk-Toz-8" value="Employee&lt;div&gt;Task&lt;/div&gt;&lt;div&gt;SimpleTask&lt;/div&gt;&lt;div&gt;ComplexTask&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="610" y="260" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YmLernKXyZajT-Sk-Toz-10" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.031;entryY=0.496;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=200;exitDy=42;exitPerimeter=0;" edge="1" parent="1" source="YmLernKXyZajT-Sk-Toz-3" target="YmLernKXyZajT-Sk-Toz-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="290" as="sourcePoint" />
+            <mxPoint x="490" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YmLernKXyZajT-Sk-Toz-11" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=180;exitDy=28;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=63.5;entryPerimeter=0;" edge="1" parent="1" source="YmLernKXyZajT-Sk-Toz-4" target="YmLernKXyZajT-Sk-Toz-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="290" as="sourcePoint" />
+            <mxPoint x="490" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YmLernKXyZajT-Sk-Toz-14" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=190;exitDy=56;exitPerimeter=0;entryX=0.183;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YmLernKXyZajT-Sk-Toz-1" target="YmLernKXyZajT-Sk-Toz-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="334" y="160" as="sourcePoint" />
+            <mxPoint x="494" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
